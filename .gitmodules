@@ -1,0 +1,9 @@
+[submodule "envolvepool-api"]
+	path = envolvepool-api
+	url = https://github.com/zvy22606/envolvepool-api
+[submodule "envolvepool-web"]
+	path = envolvepool-web
+	url = https://github.com/zvy22606/envolvepool-web
+[submodule "envolvepool-contract"]
+	path = envolvepool-contract
+	url = https://github.com/zvy22606/envolvepool-contract
